@@ -1,4 +1,5 @@
 # repo1
+
 # Joc Nau
 El joc permet simular el moviment d'una nau en l'eix de les X i en les de les Y.
 
