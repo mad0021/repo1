@@ -1,7 +1,7 @@
 def menu():
     print("w- Moure amunt")
     print("a- Moure equerre")
-    print("d- Moure amunt")
+    print("d- Moure dreta")
     print("s- Moure avall")    
     print("0- Sortir")
 
