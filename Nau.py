@@ -14,7 +14,7 @@ def main():
 
     sortir=False
     while not sortir:
-        op = input('Entra una opció: ')
+        op = input('Entra una opcio: ')
         if op=='d':
             #sumar 1 a la variable posX
             posX=posX+1
